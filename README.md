@@ -14,7 +14,13 @@ Steps:
 
 Frameworks:
   1. Express - Node Server
-  2. Mocha - TDD
-  3. Jasmine - BDD
+  2. Mocha - for testing
+  3. Chain - for REST testing
+
+  Important notes:
+    Since I got problems using Chain and Mocha, I couldn't resolve the palindrome phrase problem. 
+    I know that I got the word using a Path Parameter, so its not possible get a phrase.
+    The best way would be using a post method and send a body to the request.
+
 
 Thanks.
